@@ -1,6 +1,6 @@
 # Photoshop Export - Substance 3D Painter plugin (8K Export)
 
-**Note:** This is a fork of the original Photoshop Export plugin [the most up-to-date version is found here)](https://github.com/AllegorithmicSAS/painter-plugin-photoshop-export) that was shipped with Substance 3D Painter v.9 (2023). This version has been modified to add an option in the configuration panel to override the export resolution, allowing for exports in 8K (8192x8192). I have not stress-tested it, but it should work. It may or may not conflict with the default version of this plugin shipped with Substance. 
+**Note:** This is a fork of the original Photoshop Export plugin [(the most up-to-date version is found here)](https://github.com/AllegorithmicSAS/painter-plugin-photoshop-export) that was shipped with Substance 3D Painter v.9 (2023). This version has been modified to add an option in the configuration panel to override the export resolution, allowing for exports in 8K (8192x8192). I have not stress-tested it, but it should work. It may or may not conflict with the default version of this plugin shipped with Substance. 
 
 **Important:** Certain Substance Painter versions may have issues exporting texture maps at 8K using assets and generators that have not been updated to support this resolution, [as described in this Adobe Community issue from last year](https://community.adobe.com/t5/substance-3d-painter-discussions/substance-painter-not-exporting-8k-maps-correctly/td-p/13007331).
 
