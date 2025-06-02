@@ -1,4 +1,4 @@
-# Photoshop Export - Substance 3D Painter plugin (8K Export Fork)
+# Photoshop Export - Substance 3D Painter plugin (8K Export)
 
 **Note:** This is a fork of the original Photoshop Export plugin (version 1.1.6, originally found at `https://github.com/AllegorithmicSAS/painter-plugin-photoshop-export`) that was shipped with Substance 3D Painter v.9 (2023). This version has been modified to add an option in the configuration panel to override the export resolution, allowing for exports up to 8K (8192x8192). The repository for this fork can be found at `https://github.com/vengefulcrop/painter-plugin-photoshop-export-8k-2023`.
 
