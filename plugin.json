@@ -1,5 +1,5 @@
 {
-  "description": "This plugin is a fork of the original Substance 3D Painter v.9 2023 Photoshop export plugin, modified to add an option to export the project to Photoshop in 8K resolution. Note - certain Substance Painter versions may have issues exporting texturemaps using assets and generators that have not been updated to support 8k, [as described in this issue from last year](https://community.adobe.com/t5/substance-3d-painter-discussions/substance-painter-not-exporting-8k-maps-correctly/td-p/13007331).",
+  "description": "This plugin is a fork of the original Substance 3D Painter v.9 2023 Photoshop export plugin, modified to add an option to export the project to Photoshop in 8K resolution.",
   "url": "https://github.com/vengefulcrop/painter-plugin-photoshop-export-8k-2023",
   "version": "1.1.7",
   "license": "<a href=\"https://opensource.org/licenses/MIT\">MIT</a>",
